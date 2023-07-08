@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yizhou Chen"
   avatar           : "profile.png"
-  bio              : "MSc in Mechanical Engineering in Shanghai Jian Tong University (Expected March 2024)"
+  bio              : "MSc in Mechanical Engineering in Shanghai Jian Tong University (Expected graduation in March 2024)"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QP-v-a8AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "SJTUzhou"
   google_plus      :
   keybase          :
   instagram        :
