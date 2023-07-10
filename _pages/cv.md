@@ -25,7 +25,7 @@ Skills
 
 Work experience
 ======
-* April 2023 - Present : **Research Intern on Large Language Models**
+* **April 2023 - Present : Research Intern on Large Language Models**
   * Shanghai Qizhi Institute
   * Duties included: Data cleaning and processing, research on parallel and distributed deep learning, and training and deployment of large language models (i.e. OpenLLaMA) on the GPU cluster through DeepSpeed, Ray, and Kubernetes.
   * Supervisor: Prof. Yang Yuan 
@@ -33,17 +33,17 @@ Work experience
 
 Project
 ======
-* Dec 2021 - Aug 2023 : **Tooth Shape Analysis**
+* **Dec 2021 - Aug 2023 : Tooth Shape Analysis**
   * Smartee Tech. Ltd. - Shanghai Jiao Tong University
   * Description: Tooth semantic segmentation of intra-oral photos, reconstruction of 3D teeth model from single or multiple intra-oral photos (2D-to-3D multi-object reconstruction based on statistical shape modeling, [GitHub Link](https://github.com/SJTUzhou/3D-Teeth-Reconstruction-from-Five-Intra-oral-Images)), and prediction of smiles with aligned teeth after orthodontic treatment through generative adversarial neural networks.
   * Supervisor: Prof. Xiaojun Chen 
 
-* Feb 2021 - Jun 2021 : **Research on the Robustness of Graph Neural Networks**
+* **Feb 2021 - Jun 2021 : Research on the Robustness of Graph Neural Networks**
   * CentraleSupélec
   * Description: Enhance the robustness of graph neural network (GNN) against adversarial attacks by restricting the upper-bound of Lipschitz constant of the weights in GNN model. [GitHub Link](https://github.com/SJTUzhou/Lipschitz_gnn)
   * Supervisor: Prof. Jean-Christophe Pesquet
 
-* Jan 2020 - Jun 2020 : **Rating Prediction Based on Matrix Factorization**
+* **Jan 2020 - Jun 2020 : Rating Prediction Based on Matrix Factorization**
   * CentraleSupélec
   * Description: Implementation of a matrix decomposition algorithm in the context of the Netflix Prize and analysis of the performance of stochastic gradient descent and alternating least squares in matrix decomposition optimization. [GitHub Link](https://github.com/SJTUzhou/NetflixPrizeMatrixFactorization)
 
