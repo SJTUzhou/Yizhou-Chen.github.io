@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download pdf here](https://sjtuzhou.github.io/files/Yizhou-Chen_CV.pdf)
+
 
 Education
 ======
@@ -57,4 +57,4 @@ Publications
 * **Yizhou Chen** and Xiaojun Chen, "A Semantic-guided and Knowledge-based Generative Framework for Orthodontic Visual Outcome Preview", <em>Medical Image Computing and Computer Assisted Intervention–MICCAI 2023: 26th International Conference</em>, 2023, Early Accept.
 
 
-
+[Download pdf here](https://sjtuzhou.github.io/files/Yizhou-Chen_CV.pdf)
