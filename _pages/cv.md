@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download pdf here](https://sjtuzhou.github.io/files/Yizhou-Chen_CV.pdf)
+
 Education
 ======
 * B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2021
