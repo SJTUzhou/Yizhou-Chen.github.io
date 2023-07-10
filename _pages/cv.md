@@ -33,7 +33,7 @@ Work experience
   * Supervisor: Prof. Yang Yuan 
 
 
-Project
+Projects
 ======
 * **Dec 2021 - Aug 2023 : Tooth Shape Analysis**
   * Smartee Tech. Ltd. - Shanghai Jiao Tong University
