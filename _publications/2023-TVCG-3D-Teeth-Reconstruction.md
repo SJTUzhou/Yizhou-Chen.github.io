@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2023-TVCG-3D-Teeth-Reconstruction
 excerpt: 'An improved 3D teeth reconstruction framework that automatically restores the shape, arrangement, and dental occlusion of upper and lower teeth from five intra-oral photographs.'
 date: '19 May 2023'
+venue: 'IEEE Transactions on Visualization and Computer Graphics'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10129853'
 citation: 'Y. Chen, S. Gao, P. Tu and X. Chen, "Automatic 3D Teeth Reconstruction from Five Intra-oral Photos Using Parametric Teeth Model," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2023.3277914.'
 ---
