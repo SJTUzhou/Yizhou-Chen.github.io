@@ -3,7 +3,7 @@ title: "A Semantic-guided and Knowledge-based Generative Framework for Orthodont
 collection: publications
 permalink: /publication/2023-MICCAI-Orthodontic-Preview-Framework
 excerpt: 'A semantic-guided and knowledge-based generative framework to predict the visual outcome of orthodontic treatment from a single frontal photo.'
-date: '2023'
+date: '24 Jun 2023'
 venue: 'Medical Image Computing and Computer Assisted Intervention–MICCAI 2023: 26th International Conference'
 paperurl: 'http://sjtuzhou.github.io/files/2023-MICCAI-Orthodontic-Preview-Framework.pdf'
 citation: 'Y. Chen and X. Chen, "A Semantic-guided and Knowledge-based Generative Framework for Orthodontic Visual Outcome Preview", in Medical Image Computing and Computer Assisted Intervention–MICCAI 2023: 26th International Conference, 2023.'
